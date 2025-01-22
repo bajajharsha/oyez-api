@@ -39,7 +39,7 @@ To scrape and analyze data from the Oyez API, organize it systematically, and te
 
 # 2. Categorization
 
-'''
+```
 Resolved/
 └── case/
 ├── case.json
@@ -61,4 +61,4 @@ UnResolved/
 ├── members/
 ├── embeddings/
 └── case.pdf
-'''
+```
